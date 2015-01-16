@@ -190,7 +190,7 @@ class: center, middle, inverse
 ## OpenFl
 OpenGL + C++ = win
 ## NME
-ancêtre de OpenFL, fabriqué par Hugh Anderson, créateur de hxcpp, waxe,...
+ancêtre de OpenFL, fabriqué par Hugh Sanderson, créateur de hxcpp, waxe,...
 [website](http://nmehost.com/)
 ## Croxit
 Cordova avec du haxe
